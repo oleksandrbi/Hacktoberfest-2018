@@ -1,0 +1,3 @@
+name = input("Enter in name: ")
+print("Name is: ",name)
+Print("Hello.",name)
